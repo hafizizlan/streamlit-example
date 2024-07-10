@@ -2,3 +2,7 @@ altair
 pandas
 streamlit
 cv2
+joblib
+ultralytics
+time
+supervision
